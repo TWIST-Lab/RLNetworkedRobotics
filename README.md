@@ -47,6 +47,8 @@ Once you have successfully installed all the necessary dependencies, proceed to 
 
 If you find this simulation framework useful in your research, please cite our work:
 
+Amatare, Sunday and Singh, Gaurav and Samson, Michelle and Roy, Debashri, RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment (April 30, 2024). Available at SSRN: https://ssrn.com/abstract=4915850 or http://dx.doi.org/10.2139/ssrn.4915850
+
 ## Acknowledgments
 
 Thank you for choosing the privacy-preserving robot navigation testbed. For any questions, feedback, or collaboration opportunities, please feel free to reach out.
