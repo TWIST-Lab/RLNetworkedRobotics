@@ -47,7 +47,7 @@ Once you have successfully installed all the necessary dependencies, proceed to 
 
 If you find this simulation framework useful in your research, please cite our work:
 
-```Sunday Amatare, Gaurav Singh, Michelle Samson, and  Debashri Roy, "RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment", IEEE Globecom 2024, Available at SSRN: https:http://dx.doi.org/10.2139/ssrn.4915850'''
+```Sunday Amatare, Gaurav Singh, Michelle Samson, and  Debashri Roy, "RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment", IEEE Globecom 2024, Available at SSRN: https:http://dx.doi.org/10.2139/ssrn.4915850```
 
 ## Acknowledgments
 
